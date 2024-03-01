@@ -1,0 +1,14 @@
+/home/thiga/Documents/trial/bin/Debug/net8.0/trial
+/home/thiga/Documents/trial/bin/Debug/net8.0/trial.deps.json
+/home/thiga/Documents/trial/bin/Debug/net8.0/trial.runtimeconfig.json
+/home/thiga/Documents/trial/bin/Debug/net8.0/trial.dll
+/home/thiga/Documents/trial/bin/Debug/net8.0/trial.pdb
+/home/thiga/Documents/trial/obj/Debug/net8.0/trial.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/trial/obj/Debug/net8.0/trial.AssemblyInfoInputs.cache
+/home/thiga/Documents/trial/obj/Debug/net8.0/trial.AssemblyInfo.cs
+/home/thiga/Documents/trial/obj/Debug/net8.0/trial.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/trial/obj/Debug/net8.0/trial.dll
+/home/thiga/Documents/trial/obj/Debug/net8.0/refint/trial.dll
+/home/thiga/Documents/trial/obj/Debug/net8.0/trial.pdb
+/home/thiga/Documents/trial/obj/Debug/net8.0/trial.genruntimeconfig.cache
+/home/thiga/Documents/trial/obj/Debug/net8.0/ref/trial.dll
