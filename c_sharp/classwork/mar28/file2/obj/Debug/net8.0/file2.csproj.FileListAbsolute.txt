@@ -1,0 +1,14 @@
+/home/thiga/Documents/Programming_class/file2/bin/Debug/net8.0/file2
+/home/thiga/Documents/Programming_class/file2/bin/Debug/net8.0/file2.deps.json
+/home/thiga/Documents/Programming_class/file2/bin/Debug/net8.0/file2.runtimeconfig.json
+/home/thiga/Documents/Programming_class/file2/bin/Debug/net8.0/file2.dll
+/home/thiga/Documents/Programming_class/file2/bin/Debug/net8.0/file2.pdb
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/file2.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/file2.AssemblyInfoInputs.cache
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/file2.AssemblyInfo.cs
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/file2.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/file2.dll
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/refint/file2.dll
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/file2.pdb
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/file2.genruntimeconfig.cache
+/home/thiga/Documents/Programming_class/file2/obj/Debug/net8.0/ref/file2.dll
