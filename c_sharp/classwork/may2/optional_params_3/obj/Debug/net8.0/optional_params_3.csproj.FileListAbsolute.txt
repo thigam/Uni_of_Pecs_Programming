@@ -1,0 +1,15 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.sourcelink.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/bin/Debug/net8.0/optional_params_3
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/bin/Debug/net8.0/optional_params_3.deps.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/bin/Debug/net8.0/optional_params_3.runtimeconfig.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/bin/Debug/net8.0/optional_params_3.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/bin/Debug/net8.0/optional_params_3.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/refint/optional_params_3.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/optional_params_3.genruntimeconfig.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/optional_params_2/optional_params_3/obj/Debug/net8.0/ref/optional_params_3.dll

@@ -1,0 +1,15 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.sourcelink.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/bin/Debug/net8.0/file1
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/bin/Debug/net8.0/file1.deps.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/bin/Debug/net8.0/file1.runtimeconfig.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/bin/Debug/net8.0/file1.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/bin/Debug/net8.0/file1.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/refint/file1.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/file1.genruntimeconfig.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may2/file1/obj/Debug/net8.0/ref/file1.dll
