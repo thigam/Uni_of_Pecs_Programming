@@ -1,0 +1,5 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/enum_2/obj/Debug/net8.0/enum_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/enum_2/obj/Debug/net8.0/enum_2.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/enum_2/obj/Debug/net8.0/enum_2.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/enum_2/obj/Debug/net8.0/enum_2.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/enum_2/obj/Debug/net8.0/enum_2.sourcelink.json

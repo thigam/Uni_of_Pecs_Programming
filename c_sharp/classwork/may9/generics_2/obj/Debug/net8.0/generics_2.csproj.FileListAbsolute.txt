@@ -1,0 +1,15 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.sourcelink.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/bin/Debug/net8.0/generics_2
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/bin/Debug/net8.0/generics_2.deps.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/bin/Debug/net8.0/generics_2.runtimeconfig.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/bin/Debug/net8.0/generics_2.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/bin/Debug/net8.0/generics_2.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/refint/generics_2.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/generics_2.genruntimeconfig.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/generics_2/obj/Debug/net8.0/ref/generics_2.dll
