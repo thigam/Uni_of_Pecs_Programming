@@ -1,0 +1,15 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.sourcelink.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/bin/Debug/net8.0/dictionary_1
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/bin/Debug/net8.0/dictionary_1.deps.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/bin/Debug/net8.0/dictionary_1.runtimeconfig.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/bin/Debug/net8.0/dictionary_1.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/bin/Debug/net8.0/dictionary_1.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/refint/dictionary_1.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/dictionary_1.genruntimeconfig.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may9/dictionary_1/obj/Debug/net8.0/ref/dictionary_1.dll
