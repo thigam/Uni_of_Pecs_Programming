@@ -1,0 +1,15 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.sourcelink.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/bin/Debug/net8.0/task_may_13_2024
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/bin/Debug/net8.0/task_may_13_2024.deps.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/bin/Debug/net8.0/task_may_13_2024.runtimeconfig.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/bin/Debug/net8.0/task_may_13_2024.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/bin/Debug/net8.0/task_may_13_2024.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/refint/task_may_13_2024.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/task_may_13_2024.genruntimeconfig.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/Debug/net8.0/ref/task_may_13_2024.dll
