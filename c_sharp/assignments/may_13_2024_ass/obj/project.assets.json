@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/task_may_13_2024.csproj",
+      "projectUniqueName": "/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/may_13_2024_ass/task_may_13_2024.csproj",
       "projectName": "task_may_13_2024",
-      "projectPath": "/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/task_may_13_2024.csproj",
+      "projectPath": "/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/may_13_2024_ass/task_may_13_2024.csproj",
       "packagesPath": "/home/thiga/.nuget/packages/",
-      "outputPath": "/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/task_may_13_2024/obj/",
+      "outputPath": "/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/assignments/may_13_2024_ass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/thiga/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/241/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/245/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
