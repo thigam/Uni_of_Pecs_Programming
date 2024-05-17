@@ -1,0 +1,15 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.sourcelink.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/bin/Debug/net8.0/Classifier_program_Matthew_Mwangi
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/bin/Debug/net8.0/Classifier_program_Matthew_Mwangi.deps.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/bin/Debug/net8.0/Classifier_program_Matthew_Mwangi.runtimeconfig.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/bin/Debug/net8.0/Classifier_program_Matthew_Mwangi.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/bin/Debug/net8.0/Classifier_program_Matthew_Mwangi.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/refint/Classifier_program_Matthew_Mwangi.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/Classifier_program_Matthew_Mwangi.genruntimeconfig.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may17/Classifier_program_Matthew_Mwangi/obj/Debug/net8.0/ref/Classifier_program_Matthew_Mwangi.dll
