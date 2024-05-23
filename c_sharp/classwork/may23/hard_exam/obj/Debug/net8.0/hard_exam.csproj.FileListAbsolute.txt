@@ -1,0 +1,15 @@
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.AssemblyInfoInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.AssemblyInfo.cs
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.csproj.CoreCompileInputs.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.sourcelink.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/bin/Debug/net8.0/hard_exam
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/bin/Debug/net8.0/hard_exam.deps.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/bin/Debug/net8.0/hard_exam.runtimeconfig.json
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/bin/Debug/net8.0/hard_exam.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/bin/Debug/net8.0/hard_exam.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/refint/hard_exam.dll
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.pdb
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/hard_exam.genruntimeconfig.cache
+/home/thiga/Documents/Uni_of_Pecs_Programming/c_sharp/classwork/may23/hard_exam/obj/Debug/net8.0/ref/hard_exam.dll
