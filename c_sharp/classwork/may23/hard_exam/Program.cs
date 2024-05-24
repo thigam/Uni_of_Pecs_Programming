@@ -142,12 +142,12 @@ namespace hard_exam
 
         public int Available_beds()
         {
-            int total_beds = 0;
+            int available_beds = 0;
             foreach(KeyValuePair<int, int> i in rooms)
             {
-                total_beds = total_beds + i.Value;
+                available_beds += i.Value;
             }
-            return total_beds - occupants.Count;
+            return available_beds;
         }
 
         //since i'm not sure if you wanted to know the total number of available beds in
@@ -165,12 +165,44 @@ namespace hard_exam
                 return;
             }
             occupants.Add(x,x.RoomNumber);
-            rooms[x.RoomNumber] -= 1;
+            rooms[x.RoomNumber] = rooms[x.RoomNumber] - 1;
         }
 
         public int RoomNumber_query(Boarder x)
         {
             return occupants[x];
+        }
+        public void Report_generator(string name)
+        {
+            Console.WriteLine("\nThis is the report for " + name);
+            Console.WriteLine(name + "'s balance is " + this.Balance + " HUF");
+            Console.WriteLine("These are the balances for the boarders in this dorm: ");
+            foreach(KeyValuePair<Boarder, int> x in occupants)
+            {
+                Console.WriteLine(x.Key.FirstName + "'s balance is " + x.Key.Balance + " HUF");
+            }
+        }
+        public virtual void Admission(params Boarder[] applicants)
+        {
+            List<Boarder> holder = new List<Boarder>(){};
+            holder.AddRange(applicants);
+            List<Boarder> all = holder.OrderByDescending(x => x.AverageGrade).ToList();
+            foreach(Boarder x in all)
+            {
+                if (this.Available_beds() > 0)
+                {
+                    foreach(KeyValuePair<int,int> room in rooms)
+                    {
+                        if (room.Value > 0)
+                        {
+                            x.RoomNumber = room.Key;
+                            this.Enroll(x);
+                        }
+                    }
+                }
+                else
+                Console.WriteLine("There's not enough room in this dorm for " + x.FirstName);
+            }
         }
     }
     class SmallDorm : Dorm
@@ -197,6 +229,38 @@ namespace hard_exam
         } 
         public LargeDorm(Dictionary<int,int> x) : base(x)
         {}
+
+        public override void Admission(params Boarder[] applicants)
+        {
+            List<Boarder> holder = new List<Boarder>(){};
+            holder.AddRange(applicants);
+            List<Boarder> all = holder.OrderByDescending(x => x.AverageGrade).ToList();
+            for(int i = 1; i < all.Count() - 1; i++)
+            {
+                if (all[i-1].AverageGrade - all[i].AverageGrade < 0.15 && all[i].Balance >= 0.3*all[i-1].Balance)
+                {
+                    Boarder holder2 = all[i-1];
+                    all[i-1] = all[i];
+                    all[i] = holder2;
+                }
+            }
+            foreach(Boarder x in all)
+            {
+                if (this.Available_beds() > 0)
+                {
+                    foreach(KeyValuePair<int,int> room in this.Rooms)
+                    {
+                        if (room.Value > 0)
+                        {
+                            x.RoomNumber = room.Key;
+                            this.Enroll(x);
+                        }
+                    }
+                }
+                else
+                Console.WriteLine("There's not enough room in this dorm for " + x.FirstName);
+            }
+        }
     }
     class Program
     {
@@ -223,7 +287,15 @@ namespace hard_exam
             Arpi.dorm_fee(DormType.LargeDorm);
 
             //generate a report for thebalance for students and dorms
+            smalldorm.Report_generator("smalldorm");
+            largedorm.Report_generator("largedorm");
             Console.WriteLine(Kata.FirstName + "'s room number: " + Kata.RoomNumber);
+            
+            smalldorm.Admission(Sari, Judit);
+            largedorm.Admission(Sari,Judit);
+
+            smalldorm.Report_generator("smalldorm");
+            largedorm.Report_generator("largedorm");
         }
     }
 }
