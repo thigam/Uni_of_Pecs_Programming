@@ -121,27 +121,6 @@ xlabel('z');
 ylabel('E');
 title('Plot of E(z)');
 
-%%
-% Define constants
-n1 = 1;         % Refractive index of medium 1 (incident medium)
-n2 = 1.5;       % Refractive index of medium 2 (transmitted medium)
-
-% Define range of angles of incidence (in degrees)
-theta_i_deg = linspace(0, 90, 100); % Range of angles from 0 to 90 degrees
-
-% Convert angles to radians
-theta_i_rad = deg2rad(theta_i_deg);
-
-% Calculate reflection coefficient (Fresnel equation for perpendicular polarization)
-R_perpendicular = ((n1*cos(theta_i_rad) - n2*sqrt(1 - (n1/n2*sin(theta_i_rad)).^2)) ./ ...
-                  (n1*cos(theta_i_rad) + n2*sqrt(1 - (n1/n2*sin(theta_i_rad)).^2))).^2;
-
-% Plot
-plot(theta_i_deg, R_perpendicular, 'LineWidth', 2);
-xlabel('Angle of Incidence (degrees)');
-ylabel('Coefficient of Reflection (R)');
-title('Coefficient of Reflection vs. Angle of Incidence (n = 1.5)');
-grid on;
 
 %%
 
